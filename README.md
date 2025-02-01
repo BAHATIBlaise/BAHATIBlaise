@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @BAHATIBlaise
-- 👀 I’m interested in Building cutting Edge Tech Projects
-- 🌱 I’m currently learning Blockchain 
-- 💞️ I’m looking to collaborate on people who have keen interest in making world better Place
-- 📫 How to reach me you can simply contact me via Twitter 
-- 😄 Pronouns: Failure is not an option 
-- ⚡ Fun fact: Matrix Exist 
--0010110 Break Free from Matrix 
-<!---
-BAHATIBlaise/BAHATIBlaise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+👋 Hi, I'm Bahati Blaise!
+
+🚀 Blockchain Developer | AI Enthusiast | Tech Entrepreneur
+
+💡 Passionate about Web3, Decentralized AI, and FinTech
+💻 Coding in C++, Solidity, MQL5, Python
+🔗 Founder of ANGELZ 777 Corp | Building ChainRize Blockchain
+📈 Creator of Bahati Art EA (Multi-strategy trading bot)
+🎓 Future Business & Computer Science Student
+
+🌍 On a mission to democratize blockchain technology and build innovative financial solutions
+
+📫 Connect with me:
+🔗 Linkedin | ✉️ Email
