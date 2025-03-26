@@ -7,7 +7,7 @@
 💻 Coding in C++, Solidity, MQL5, Python
 🔗 Founder of ANGELZ 777 Corp | Building ChainRize Blockchain
 📈 Creator of Bahati Art EA (Multi-strategy trading bot)
-🎓 Future Business & Computer Science Student
+🎓 Future Business & Software Development
 
 🌍 On a mission to democratize blockchain technology and build innovative financial solutions
 
